@@ -1,7 +1,7 @@
 <?php
 
 $hostname = "localhost";
-$username = " root";
+$username = "root";
 $password = "";
 $database_name = "buku_tamu";
 
